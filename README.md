@@ -3,7 +3,7 @@
   Defend your ship against endless waves of enemies, dodge lasers, and survive as long as you can!
   
   ![Gameplay Screenshot](Assets/gameplay_screenshot.png)
-  <img width="965" height="968" alt="image" src="https://github.com/user-attachments/assets/e030a85b-e89d-47fc-bd37-3f9bfda5ff01" />
+  
 
 # Features 🎮 
   - **Player ship** with health bar
