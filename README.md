@@ -4,7 +4,6 @@
   
   ![Gameplay Screenshot](Assets/gameplay_screenshot.png)
   
-
 # Features 🎮 
   - **Player ship** with health bar
   - Multiple **enemy ships** (red, blue, green) with unique laser
